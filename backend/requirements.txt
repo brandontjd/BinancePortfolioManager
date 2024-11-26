@@ -40,6 +40,6 @@ Twisted==21.2.0
 txaio==21.2.1
 tzlocal==2.1
 ujson==4.0.2
-urllib3==1.26.4
+urllib3==1.26.5
 Werkzeug==1.0.1
 zope.interface==5.4.0
